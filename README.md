@@ -45,11 +45,8 @@ Evaluate the trained model:
 ```bash
 python evaluate.py (Example not created yet)
 ```
-# Resources
-
-
 
 # Results
 We achieved promising results on the test set, with an accuracy of X% and a precision of Y%. Detailed performance metrics and visualizations are available in the results directory.
 
-
+# Resources
