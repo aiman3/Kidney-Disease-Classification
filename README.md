@@ -1,12 +1,5 @@
-# Kidney Disease Classification Project
-This project aims to classify kidney disease using machine learning techniques. We utilize the ResNet (Residual Neural Network) architecture to build a robust classification model.
-
-
 # Overview
-Chronic kidney disease (CKD) is a significant public health concern worldwide, with early detection being crucial for effective treatment and management. This project focuses on developing a machine learning model to classify CKD based on clinical data. We employ the ResNet architecture due to its ability to handle complex relationships within the data and its proven effectiveness in image and medical data classification tasks.
-
-# Dataset
-The dataset used for this project contains clinical features and laboratory test results of patients, along with their corresponding CKD status (positive or negative). The dataset is not included in this repository due to privacy and licensing restrictions. However, you can obtain a similar dataset from [source] and preprocess it according to the instructions in the code.
+The kidney classification overview is included in the wiki!
 
 # Installation
 To run this project locally, follow these steps:
