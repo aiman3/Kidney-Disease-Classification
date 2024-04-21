@@ -1,2 +1,4 @@
+#Link to data for trianing and testing
 https://wandb.ai/k9789544219/kidney_classification?nw=nwuserk9789544219
+
 
