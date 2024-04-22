@@ -1,2 +1,2 @@
 #Output link for VGG-19 model
-https://wandb.ai/k9789544219/kidney_classification_vgg19/sweeps/9n913c8j?nw=nwuserk9789544219 this is the result of vgg net but sill running
+https://wandb.ai/k9789544219/kidney_classification_vgg19?nw=nwuserk9789544219
