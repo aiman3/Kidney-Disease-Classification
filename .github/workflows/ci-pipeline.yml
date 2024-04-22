@@ -1,4 +1,4 @@
-name: backend
+name: Kidney-Disease-Classification
 
 on:
   push:
@@ -67,12 +67,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install coverage pylint
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
-      - name: Test with Django
-        run: python -m coverage run --branch --source=src manage.py test
-
-      - name: Test with pytest
-        run: python -m coverage run --branch --append --source=src -m pytest
 
       - name: Generate coverage report
         run: coverage report -m > coverage_report.txt
