@@ -1,5 +1,5 @@
 # Overview
-The kidney classification overview is included in the wiki!
+The kidney classification overview is included in the [wiki](https://github.com/aiman3/Kidney-Disease-Classification/wiki) !
 
 # Installation
 To run this project locally, follow these steps:
