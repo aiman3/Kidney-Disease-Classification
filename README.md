@@ -40,6 +40,15 @@ python evaluate.py (Example not created yet)
 ```
 
 # Results
-We achieved promising results on the test set, with an accuracy of X% and a precision of Y%. Detailed performance metrics and visualizations are available in the results directory.
+We achieved promising results on the test set,
+![image](https://github.com/aiman3/Kidney-Disease-Classification/assets/167260360/6079f495-c868-4860-899c-cd90f2df1446)
+![image](https://github.com/aiman3/Kidney-Disease-Classification/assets/167260360/15f192b5-856c-42d1-b5db-05f88d329a65)
 
 # Resources
+dataset has 12,446 images. Normal folder has 5077 images, Cyst folder has 3709 images. tumor folder has 2283 images, and stond folder has 5077 images.
+
+dataset link: 
+https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
+![image](https://github.com/aiman3/Kidney-Disease-Classification/assets/167260360/5ebdd2cc-599d-41d0-95ca-62c166335937)
+
+
