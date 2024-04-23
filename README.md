@@ -3,7 +3,7 @@ The kidney classification overview is included in the [wiki](https://github.com/
 
 # Installation
 
-the required dependencies is in requirements.txt but all required dependencies is included in the ipynb files.
+the required dependencies is in requirements.txt but all required dependencies is included in .ipynb files.
 
 
 # Usage
