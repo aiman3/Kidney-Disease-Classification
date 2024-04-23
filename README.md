@@ -10,7 +10,7 @@ the required dependencies is in requirements.txt but all required dependencies i
 After installing the necessary dependencies, you can train and evaluate the ResNet50 model and vgg19 model by running .ipynb files.
 
 
-in src file, resnet50, vgg19 models are included. 
+in src folder, resnet50, vgg19 models are included. 
 
 
 # Results
