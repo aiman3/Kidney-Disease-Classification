@@ -3,7 +3,30 @@ The kidney classification overview is included in the [wiki](https://github.com/
 
 # Installation
 
-the required dependencies is in requirements.txt but all required dependencies is included in .ipynb files.
+To run this project locally, follow these steps:
+Clone this repository to your local machine:
+```bash
+git clone https://github.com/your_username/kidney-disease-classification.git
+```
+Navigate to the project directory:
+```bash
+cd kidney-disease-classification
+```
+Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+# Run
+Run the mode you desire in src folder (ResNet50 or VGG-19)
+* Data will download via code in notebook
+* Data will preprocess from prewritten code
+
+# Train 
+* Run Training mode on notebook 
+
+# Other notes
+The required dependencies is in requirements.txt but all required dependencies is included in .ipynb files.
 
 
 # Usage
