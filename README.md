@@ -52,4 +52,11 @@ dataset link:
 https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
 ![image](https://github.com/aiman3/Kidney-Disease-Classification/assets/167260360/5ebdd2cc-599d-41d0-95ca-62c166335937)
 
+# Future Work
+This includes the implementation of INCEPTION-RESNET​, ALEXNET, and ZFNET. 
 
+INCEPTION-RESNET​ gives clear empirical evidence that training with residual connections accelerates the training of Inception networks significantly​ and presents several new streamlined architectures for both residual and non-residual Inception networks.
+
+ALEXNET is a classic convolutional neural network architecture​ and consists of convolutions, max pooling and dense layers as the basic building blocks
+
+ZFNET's design was motivated by visualizing intermediate feature layers and the operation of the classifier​ and compared to AlexNet, the filter sizes are reduced and the stride of the convolutions are reduced
